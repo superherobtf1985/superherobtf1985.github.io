@@ -1,4 +1,4 @@
 theme = 'github-style'
-baseURL = ''
+baseURL = '"https://superherobtf1985.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'bellshunブログ'
