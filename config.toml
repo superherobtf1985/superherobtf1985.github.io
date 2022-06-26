@@ -1,4 +1,9 @@
-theme = 'github-style'
 baseURL = 'https://superherobtf1985.github.io'
-languageCode = 'en-us'
-title = 'bellshunブログ'
+languageCode = 'ja-jp'
+title = 'ポートフォリオまとめ'
+author = 'bellshun'
+theme = 'github-style'
+defaultContentLanguage = "ja"
+copyright = "Copyright © 2022 bellshun"
+summarylength = 60
+HasCJKLanguage = true
