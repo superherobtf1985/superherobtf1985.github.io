@@ -1,9 +1,8 @@
 ---
 title: "勉強でECサイト作ってみた"
 date: 2021-06-05T13:24:09Z
-description: ""
-categories: ["作成物"]
-tags: ["Ruby on Rails"]
+summary: "2019年夏にインターンの学習の一環として作成したCDの仮想ECサイトです。Ruby on Railsを利用して作成しました。"
+tags: ["ソースコードあり", "Ruby on Rails"]
 ---
 
 ## 2人で簡単なECサイト作ってみた

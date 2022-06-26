@@ -1,9 +1,23 @@
 baseURL = 'https://superherobtf1985.github.io'
 languageCode = 'ja-jp'
 title = 'ポートフォリオまとめ'
-author = 'bellshun'
 theme = 'github-style'
 defaultContentLanguage = "ja"
-copyright = "Copyright © 2022 bellshun"
+copyright = "Copyright © 2022 ShunT"
 summarylength = 60
 HasCJKLanguage = true
+pygmentsUseClasses = true
+pygmentsCodefences = true 
+
+[params]
+  author = "ShunT"
+  description = "趣味で作成したものを掲載します"
+  github = "superherobtf1985"
+  twitter = "bellshun_9973"
+  url = "https://blog.bellshun.com"
+  keywords = "blog, google analytics"
+  rss = false
+  lastmod = true
+  favicon = "/images/github.png"
+  location = "Saitama/Tokyo"
+  enableGitalk = false
