@@ -1,5 +1,5 @@
 ---
-title: "勉強でECサイト作ってみた"
+title: "仮想ECサイト作ってみた"
 date: 2021-06-05T13:24:09Z
 summary: "2019年夏にインターンの学習の一環として作成したCDの仮想ECサイトです。Ruby on Railsを利用して作成しました。"
 tags: ["ソースコードあり", "Ruby on Rails"]
