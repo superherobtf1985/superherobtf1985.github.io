@@ -18,7 +18,7 @@ Atomic Designの理解のためにも実装した。
 ## 成果物
 理解の為の部分実装のため、デプロイしていない。  
 代わりにGIFと[GitHub](https://github.com/superherobtf1985/Vue3-TypeScript-SpringBoot-SampleApp)を貼ります。
-{{< figure src="/images/vue3-book/book-sample.gif" width="750" height="551" >}}
+{{< figure src="/images/vue3-book/book-sample.gif" width="750" height="553" >}}
 
 ## 今後の改善
 - Atomic Designをさらに理解し、もっとコンポーネントをきれいにリファクタリングする
